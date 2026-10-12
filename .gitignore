@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# The Python environment made by setup_macos.sh (it is machine-specific: rebuild it with the script, don't commit it)
+cad2maya_env/
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
