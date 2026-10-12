@@ -1,0 +1,5 @@
+Drop the shelf icons here (SVG works on Maya's shelves):
+    cad2maya_import.svg   the "CAD in" button
+    cad2maya_export.svg   the "CAD out" button
+Then drag install_cad2maya.py into a Maya viewport again, so the buttons pick them up.
+Without them the buttons are plain labelled buttons.
